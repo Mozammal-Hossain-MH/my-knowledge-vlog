@@ -1,0 +1,52 @@
+.blog-page {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.bookmarks {
+    margin-top: 32px;
+    margin-left: 24px;
+}
+
+.bookmarks .spent-time {
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bookmarks .spent-time p {
+    margin: 0;
+    color: #6047EC;
+    font-weight: 700;
+}
+
+.bookmarks .bokmark-container{
+    margin-top: 24px;
+    padding: 30px;
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+}
+
+.bookmarks .bokmark-container .bookmarked-blogs h2{
+    margin: 0;
+    font-size: 16px;
+    
+}
+
+.bookmarks .bokmark-container .bookmarked-blog-title{
+    margin-top: 16px;
+   
+}
+
+.bookmarks .bokmark-container .bookmarked-blog-title p{
+    background-color: #fff;
+    margin: 0 0 16px 0; 
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 12px;
+}

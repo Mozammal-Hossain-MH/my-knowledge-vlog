@@ -1,0 +1,42 @@
+[
+    {
+      "id": "01",
+      "vlogImg": "/1.jpg",
+      "author": "Neeraj Mishra",
+      "authorImg": "/boy1.png",
+      "time": 5,
+      "blogLink": "https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html#google_vignette",
+      "blogTitle": "5 Tips for Software Developers to Excel in Their Careers",
+      "hashtag": "#beginners #programming"
+    },
+    {
+      "id": "02",
+      "vlogImg": "/2.png",
+      "author": "Chirag Manghnani",
+      "authorImg": "/boy2.png",
+      "time": 7,
+      "blogLink": "https://www.thecrazyprogrammer.com/2020/09/best-keyboards-for-programming-in-india.html",
+      "blogTitle": "8 Best Keyboards for Programming in India 2024",
+      "hashtag": "#beginners #programming"
+    },
+    {
+      "id": "03",
+      "vlogImg": "/3.png",
+      "author": "Zainab Sutarwala",
+      "authorImg": "/girl1.jpg",
+      "time": 10,
+      "blogLink": "https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html",
+      "blogTitle": "Mac vs Windows for Programming",
+      "hashtag": "#beginners #programming"
+    },
+    {
+      "id": "04",
+      "vlogImg": "/4.jpg",
+      "author": "Jitendra Ajmera",
+      "authorImg": "/girl2.jpg",
+      "time": 6,
+      "blogLink": "https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html",
+      "blogTitle": "7 Different Types of Keys in DBMS",
+      "hashtag": "#beginners #programming"
+    }
+  ]

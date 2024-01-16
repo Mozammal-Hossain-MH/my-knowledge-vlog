@@ -1,0 +1,61 @@
+.blog{
+    border-bottom: 1px solid #111;
+}
+.blog .main-img {
+    width: 100%;
+    margin: 32px 0;
+    border-radius: 8px;
+}
+
+.blog .author-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.blog .author-details .author {
+    display: flex;
+    align-items: center;
+}
+
+.blog .author-details .author .pfp-img {
+    width: 60px;
+    height: 60px;
+
+}
+
+.blog .author-details .author .author-name{
+    margin-left: 24px;
+
+}
+
+.blog .author-details .author .author-name h2 {
+    margin: 0;
+    font-size: 24px;
+    line-height: 160%;
+}
+
+.blog .author-details .author .author-name p {
+    margin: 0;
+    font-weight: 600;
+}
+
+.blog .author-details .bookmark .bookmark-btn{
+    padding:5px 10px;
+    border-radius: 4px;
+}
+
+.blog .author-details .bookmark .bookmark-btn:hover{
+    background-color: #6ed64e;
+}
+
+.blog .blog-link{
+    color: #111;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 16px 0;
+}
+.blog .mark-as-read{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
